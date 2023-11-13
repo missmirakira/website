@@ -1,13 +1,13 @@
-languageCode = "en"
-languageName = "English"
+languageCode = "fi"
+languageName = "Finnish"
 weight = 1
 title = "Miss Mira Kira"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "FI"
+  isoCode = "fi"
   rtl = false
-  dateFormat = "2 January 2006"
+  dateFormat = "02 01 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
