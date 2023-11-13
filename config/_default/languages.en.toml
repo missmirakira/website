@@ -1,25 +1,25 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Miss Mira Kira"
+# title = "Miss Mira Kira"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
-  dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  dateFormat = "02 01 2006"
+  logo = "missmirakira_logo_pink.png"
+  # secondarylogo = "missmirakira_logo.png"
+  description = "A Finnish pro domme and content creator specializing in ABDL, klismaphilia and medical fetishism."
+  copyright = "2023 © Miss Mira Kira"
 
-# [author]
-#   name = "Your name here"
-#   image = "img/blowfish_logo.png"
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
+[author]
+  #name = "Miss Mira Kira"
+  image = "missmirakira_logo_pink.png"
+  headline = "A professional domme and content creator from Tampere who has made it her life goal to fulfill the fantasies of Finnish AB/DL fetishists."
+  # bio = "A Finnish pro domme & content creator with a passion for ABDL, klismaphilia and medical fetishism."
+  links = [
+    { email = "mailto:mail@missmirakira.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -31,7 +31,7 @@ title = "Miss Mira Kira"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-#     { github = "https://github.com/username" },
+    { github = "https://github.com/missmirakira" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
@@ -53,7 +53,7 @@ title = "Miss Mira Kira"
 #     { soundcloud = "https://soundcloud.com/username" },
 #     { stack-overflow = "https://stackoverflow.com/users/userid/username" },
 #     { steam = "https://steamcommunity.com/profiles/userid" },
-#     { telegram = "https://t.me/username" },
+    { telegram = "https://t.me/missmirakira" },
 #     { tiktok = "https://tiktok.com/@username" },
 #     { tumblr = "https://username.tumblr.com" },
 #     { twitch = "https://twitch.tv/username" },
@@ -62,4 +62,4 @@ title = "Miss Mira Kira"
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
-#   ]
+  ]
