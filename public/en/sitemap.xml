@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://missmirakira.com/</loc>
+    <loc>https://missmirakira.com/en/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fi"
-      href="https://missmirakira.com/fi/"
+      href="https://missmirakira.com/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://missmirakira.com/"
+      href="https://missmirakira.com/en/"
     />
   </url>
 </urlset>
