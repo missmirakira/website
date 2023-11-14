@@ -1,4 +1,4 @@
-FROM peaceiris/hugo:latest
+FROM peaceiris/hugo:latest-full
 
 WORKDIR /
 COPY . /
