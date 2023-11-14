@@ -9,13 +9,13 @@ weight = 1
   rtl = false
   dateFormat = "02 01 2006"
   logo = "missmirakira_logo_pink.png"
-  # secondarylogo = "missmirakira_logo.png"
+  secondarylogo = "missmirakira_logo_purple.png"
   description = "A Finnish pro domme and content creator specializing in ABDL, klismaphilia and medical fetishism."
   copyright = "2023 © Miss Mira Kira"
 
 [author]
   #name = "Miss Mira Kira"
-  image = "missmirakira_logo_pink.png"
+  image = "missmirakira_logo_lightpink.png"
   headline = "A professional domme and content creator from Tampere who has made it her life goal to fulfill the fantasies of Finnish AB/DL fetishists."
   # bio = "A Finnish pro domme & content creator with a passion for ABDL, klismaphilia and medical fetishism."
   links = [
