@@ -1,4 +1,4 @@
-FROM peaceiris/hugo:v0.120.1-full
+FROM peaceiris/hugo:v0.120.0-mod
 
 WORKDIR /app
 COPY . /app
