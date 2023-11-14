@@ -1,5 +1,5 @@
 FROM peaceiris/hugo:v0.120.1-full
 
-WORKDIR /
-COPY . /
+WORKDIR /app
+COPY . /app
 RUN hugo -d public
